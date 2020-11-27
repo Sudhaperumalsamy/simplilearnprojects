@@ -6,5 +6,14 @@
   <packaging>war</packaging>
   <name>Phase2_Project</name>
   <description>phase2 project based school backend</description>
-  
+  <dependencies>
+  <!-- https://mvnrepository.com/artifact/jdk.tools/jdk.tools -->
+<dependency>
+    <groupId>jdk.tools</groupId>
+    <artifactId>jdk.tools</artifactId>
+    <version>1.8</version>
+    
+</dependency>
+
+  </dependencies>
 </project>
